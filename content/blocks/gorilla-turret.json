@@ -1,8 +1,8 @@
 {
 	"type": "ArtilleryTurret",
 	"name": "Gorilla",
-	"description": "A specialized railgun. Uses superconducting electromagnets to fire explosive nanite slugs at extreme range. The majority of damage is dealt after the nanites spread, actual damage of all nanite strikes per shot is 980.",
-	"health": 960,
+	"description": "A specialized railgun. Uses superconducting electromagnets to fire explosive nanite slugs at extreme range. The majority of damage is dealt after the nanites spread, actual damage of all nanite strikes per shot is 960.",
+	"health": 980,
 	"size": 3,
 	"reload": 200,
 	"range": 420,
