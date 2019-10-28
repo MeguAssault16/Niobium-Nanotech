@@ -1,7 +1,7 @@
 {
 	"type": "material",
 	"name": "Niobium",
-	"description": "A specialized resource, is combined with titanium to produce superconducting electromagnets.",
+	"description": "A specialized material used to produce superconducting electromagnets and nanotechnology.",
 	"hardness": 3,
 	"cost": 2.0,
 	"color": "6048ff"
