@@ -17,4 +17,4 @@ Nanite Assembler:  Assembles Nanotech Compound.
 
 Gorilla: A specialized railgun. Uses superconducting electromagnets to fire explosive nanite slugs at extreme range.
 
-Crucible: Mantains a pool of active nanite rounds for quick deployment. Unleashes swarms at both air and ground targets.
+Crucible: Mantains a pool of active nanites for quick deployment. Unleashes swarms at both air and ground targets.
