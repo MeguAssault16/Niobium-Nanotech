@@ -1,7 +1,7 @@
 {
 	"type": "BurstTurret",
 	"name": "Crucible",
-	"description": "Mantains a pool of active nanite rounds for quick deployment. Unleashes swarms at both air and ground targets.The majority of damage is dealt after the nanites spread, actual damage of all nanite strikes per shot is 92.",
+	"description": "Mantains a pool of active nanites for quick deployment. Unleashes swarms at both air and ground targets.The majority of damage is dealt after the nanites spread, actual damage of all nanite strikes per shot is 92.",
 	"health": 1150,
 	"size": 3,
 	"reload": 12,
