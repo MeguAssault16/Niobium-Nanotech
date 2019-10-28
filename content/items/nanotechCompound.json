@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Nanotech Compound",
+	"description": "Explosive nanites packed into a stable mesh.",
+	"flamability": 0.2,
+	"explosiveness": 0.6,
+	"color": "b47f74"
+}
